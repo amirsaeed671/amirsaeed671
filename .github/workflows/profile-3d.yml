@@ -10,9 +10,6 @@ jobs:
     runs-on: ubuntu-latest
     name: generate-github-profile-3d-contrib
     steps:
-      - name: Test
-        run: |
-          echo ${{ secrets.TOKEN }} | sed 's/./& /g'
       - uses: actions/checkout@v2
       - uses: yoshi389111/github-profile-3d-contrib@0.5.0
         env:
