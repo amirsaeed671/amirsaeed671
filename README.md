@@ -6,15 +6,15 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 Experienced working with: React, HTML/CSS, TailwindCSS, NextJS, NodeJS, Redux, GraphQL, Unit Test, MySQL.... 👨‍💻
 Passionate to learn about new tech.
 </p>
+
 </br>
 
-| <img align="center" src="https://github-readme-stats.vercel.app/api?username=amirsaeed671&show_icons=true&theme=default&include_all_commits=true&count_private=true" alt="amirsaeed671"  />  | <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=amirsaeed671&layout=compact&theme=default&langs_count=10&hide=tsql,css" alt="amirsaeed671"  />  |
-| ------------- | ------------- |
+![](./profile-3d-contrib/profile-night-rainbow.svg)
 
 <br/>
 
-
-![](./profile-3d-contrib/profile-night-view.svg)
+| <img align="center" src="https://github-readme-stats.vercel.app/api?username=amirsaeed671&show_icons=true&theme=default&include_all_commits=true&count_private=true" alt="amirsaeed671"  />  | <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=amirsaeed671&layout=compact&theme=default&langs_count=10&hide=tsql,css" alt="amirsaeed671"  />  |
+| ------------- | ------------- |
 
 <br/>
 
