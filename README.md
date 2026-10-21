@@ -1,15 +1,14 @@
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0EA5E9,35:8B5CF6,70:EC4899,100:10B981&height=220&section=header&text=Amir%20Ali&fontSize=58&fontColor=ffffff&animation=fadeIn&fontAlignY=38&desc=Senior%20Frontend%20Engineer%20-%20React%20%7C%20Next.js%20%7C%20TypeScript%20%7C%20AI%20Interfaces&descAlignY=57&descSize=18" width="100%" />
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0EA5E9,35:8B5CF6,70:EC4899,100:10B981&height=220&section=header&text=Amir%20Ali&fontSize=58&fontColor=ffffff&animation=fadeIn&fontAlignY=38&desc=Full%20Stack%20Engineer%20-%20React%20%7C%20Next.js%20%7C%20TypeScript%20%7C%20Node.js%20%7C%20Python&descAlignY=57&descSize=18" width="100%" />
 
 <a href="mailto:amirali671@proton.me"><img src="https://img.shields.io/badge/Email-amirali671%40proton.me-0EA5E9?style=for-the-badge&logo=protonmail&logoColor=white" /></a>
 <a href="https://linkedin.com/in/amirsaeed671"><img src="https://img.shields.io/badge/LinkedIn-amirsaeed671-2563EB?style=for-the-badge&logo=linkedin&logoColor=white" /></a>
-<a href="https://github.com/amirsaeed671"><img src="https://img.shields.io/badge/GitHub-amir--healf-111827?style=for-the-badge&logo=github&logoColor=white" /></a>
 <img src="https://komarev.com/ghpvc/?username=amirsaeed671&style=for-the-badge&color=8B5CF6" />
 
 <br /><br />
 
-<img src="https://readme-typing-svg.herokuapp.com?font=Inter&weight=700&size=26&duration=3200&pause=900&color=38BDF8&center=true&vCenter=true&width=850&lines=Building+fast%2C+polished%2C+production-ready+frontends;React+%2B+Next.js+%2B+TypeScript+specialist;AI+search%2C+personalization%2C+commerce+and+SaaS+dashboards;Privacy-first+interfaces+with+strong+engineering+ownership" alt="Typing SVG" />
+<img src="https://readme-typing-svg.herokuapp.com?font=Inter&weight=700&size=26&duration=3200&pause=900&color=38BDF8&center=true&vCenter=true&width=850&lines=Building+fast%2C+polished%2C+production-ready+products;React+%2B+Next.js+%2B+TypeScript+%2B+Node.js+%2B+Python;AI+search%2C+personalization%2C+commerce+and+SaaS+dashboards;Privacy-first+products+with+strong+engineering+ownership" alt="Typing SVG" />
 
 </div>
 
@@ -17,9 +16,11 @@
 
 ## 👋 About me
 
-I’m **Amir Ali**, a **Senior Frontend Engineer**. I have **5+ years of experience** building production-grade **React**, **Next.js** and **TypeScript** applications across AI-powered search, personalization, e-commerce, trading, SaaS dashboards and workflow products.
+I’m **Amir Ali**, a **Full Stack Engineer**. I have **7+ years of experience** building production-grade products with **React**, **Next.js**, **TypeScript**, **Node.js** and **Python** across AI-powered search, personalization, e-commerce, trading, SaaS dashboards and workflow products.
 
-I care deeply about clean frontend architecture, fast interfaces, privacy-first product thinking, user trust and turning complex product requirements into responsive, reliable experiences.
+I care deeply about clean architecture, fast interfaces, privacy-first product thinking, user trust and turning complex product requirements into responsive, reliable experiences.
+
+Based in Karachi, Pakistan, and open to remote work and relocation.
 
 ---
 
@@ -66,6 +67,26 @@ I care deeply about clean frontend architecture, fast interfaces, privacy-first 
 
 </td>
 </tr>
+<tr>
+<td width="50%">
+
+### ⚙️ Backend & Data
+- Node.js and Express services
+- Python and FastAPI for AI-powered search
+- PostgreSQL and Supabase with row-level security
+- Docker, AWS and GitHub Actions CI/CD
+
+</td>
+<td width="50%">
+
+### 🤖 AI-Assisted Engineering
+- Claude Code, Cursor and OpenAI Codex to automate repetitive work
+- Faster feature delivery without cutting quality
+- Playwright, Cypress and Jest test coverage
+- Production monitoring to trace regressions
+
+</td>
+</tr>
 </table>
 
 ---
@@ -80,7 +101,7 @@ I care deeply about clean frontend architecture, fast interfaces, privacy-first 
 | **Workflow automation** | Reduced operational workflow time by **50%** for a German road-inspection client by replacing Excel-based processes with a React platform |
 | **AI product UX** | Shipped semantic AI search, fuzzy matching, personalized discovery, AI onboarding and chatbot entry points |
 | **Code quality** | Built ESLint tooling and migrated frontend modules from JavaScript to TypeScript across large monorepo applications |
-| **Production ownership** | Owned frontend delivery from scoping and architecture through polished release across search, onboarding, checkout and personalization journeys |
+| **Production ownership** | Owned delivery across the full stack, from scoping and architecture through polished release across search, onboarding, checkout and personalization journeys |
 | **Trust & reliability** | Worked on security-sensitive frontend/backend integration, typed data flows and secure validation for sensitive subscription actions |
 
 </div>
@@ -91,7 +112,7 @@ I care deeply about clean frontend architecture, fast interfaces, privacy-first 
 
 <div align="center">
 
-<img src="https://skillicons.dev/icons?i=react,nextjs,ts,js,tailwind,html,css,nodejs,express,mongodb,supabase,graphql,git,github,figma&theme=dark" />
+<img src="https://skillicons.dev/icons?i=react,nextjs,ts,js,tailwind,html,css,nodejs,express,py,fastapi,postgres,mongodb,supabase,graphql,aws,docker,githubactions,git,github,figma&theme=dark" />
 
 <br /><br />
 
@@ -99,7 +120,13 @@ I care deeply about clean frontend architecture, fast interfaces, privacy-first 
 <img src="https://img.shields.io/badge/Next.js-111827?style=for-the-badge&logo=nextdotjs&logoColor=white" />
 <img src="https://img.shields.io/badge/TypeScript-2563EB?style=for-the-badge&logo=typescript&logoColor=white" />
 <img src="https://img.shields.io/badge/Tailwind_CSS-06B6D4?style=for-the-badge&logo=tailwindcss&logoColor=white" />
+<img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" />
+<img src="https://img.shields.io/badge/FastAPI-009688?style=for-the-badge&logo=fastapi&logoColor=white" />
+<img src="https://img.shields.io/badge/PostgreSQL-336791?style=for-the-badge&logo=postgresql&logoColor=white" />
+<img src="https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white" />
 <img src="https://img.shields.io/badge/Playwright-45BA4B?style=for-the-badge&logo=playwright&logoColor=white" />
+<img src="https://img.shields.io/badge/Cypress-17202C?style=for-the-badge&logo=cypress&logoColor=white" />
+<img src="https://img.shields.io/badge/Jest-C21325?style=for-the-badge&logo=jest&logoColor=white" />
 <img src="https://img.shields.io/badge/ESLint-4B32C3?style=for-the-badge&logo=eslint&logoColor=white" />
 <img src="https://img.shields.io/badge/GraphQL-E10098?style=for-the-badge&logo=graphql&logoColor=white" />
 <img src="https://img.shields.io/badge/Shopify-7AB55C?style=for-the-badge&logo=shopify&logoColor=white" />
@@ -111,33 +138,21 @@ I care deeply about clean frontend architecture, fast interfaces, privacy-first 
 
 ```txt
 Frontend       React - Next.js - TypeScript - JavaScript - Tailwind CSS - Responsive UI
-Architecture   Production-ready components - Modern frontend architecture - Typed data flows
-APIs & Data     REST - GraphQL - Shopify APIs - Supabase - MongoDB - Node.js - Express.js
-Quality         Playwright - ESLint - GitHub - Code reviews - Documentation - Testable UI
-UX & Product    Figma collaboration - Pixel-accurate UI - A/B testing - PostHog analytics
-AI Products     Semantic search - Fuzzy matching - Personalized discovery - AI onboarding
+Backend        Node.js - Express.js - Python - FastAPI - REST - GraphQL
+Data           PostgreSQL - Supabase - MongoDB - Shopify APIs
+Cloud & DevOps AWS - Docker - Git - GitHub Actions CI/CD
+Architecture   Production-ready components - Modern architecture - Typed data flows
+Quality        Playwright - Cypress - Jest - ESLint - Code reviews - Documentation
+UX & Product   Figma collaboration - Pixel-accurate UI - A/B testing - PostHog analytics
+AI Products    Semantic search - Fuzzy matching - Personalized discovery - AI onboarding
+AI Tooling     Claude Code - Cursor - OpenAI Codex
 ```
-
----
-
-## 📈 GitHub activity
-
-<div align="center">
-
-<img height="170" src="https://github-readme-stats.vercel.app/api?username=amirsaeed671&show_icons=true&theme=tokyonight&hide_border=true&rank_icon=github&include_all_commits=true" />
-<img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=amirsaeed671&layout=compact&theme=tokyonight&hide_border=true" />
-
-<br /><br />
-
-<img src="https://streak-stats.demolab.com?user=amirsaeed671&theme=tokyonight&hide_border=true" />
-
-</div>
 
 ---
 
 ## 🤝 Let’s build something polished
 
-I enjoy partnering closely with product, design and backend teams to ship interfaces that are beautiful, fast, maintainable and reliable under real-world constraints.
+I enjoy partnering closely with product, design and backend teams to ship products that are beautiful, fast, maintainable and reliable under real-world constraints.
 
 <div align="center">
 
